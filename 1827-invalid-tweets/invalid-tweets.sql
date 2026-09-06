@@ -5,3 +5,6 @@ FROM
     tweets
 WHERE 
     CHAR_LENGTH(content) > 15
+
+
+#lenth (bytes ) & char_length 
